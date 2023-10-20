@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 이 순한</h1>
-<h3 align="center">"I aspire to become a prospective web publisher."</h3>
+<h1 align="left">Hi 👋, I'm 이 순한</h1>
+<h3 align="left">"I aspire to become a prospective web publisher."</h3>
 
 - 🔭 I’m currently working on [삼성전자](https://docs.google.com/spreadsheets/d/1T2MfjTElXIQnQAIqXaICq42l0cEIEal5fcMwYRZ_Fqs/edit#gid=0)
 
